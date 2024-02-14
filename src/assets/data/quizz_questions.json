@@ -29,7 +29,7 @@
       "id":3,
       "question": "O que não pode faltar na sua mala de viagem ?",
       "options":[
-        {"id": 1, "name":"Guia turístico e mapas da região.s", "alias":"A"},
+        {"id": 1, "name":"Guia turístico e mapas da região.", "alias":"A"},
         {"id": 2, "name":"Protetor solar e óculos de sol.", "alias":"B"},
         {"id": 3, "name":"Equipamentos de camping e mochila.", "alias":"C"},
         {"id": 4, "name":"Garrafa de água reutilizável e lanches saudáveis.", "alias":"D"},
