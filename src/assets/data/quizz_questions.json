@@ -1,0 +1,105 @@
+{
+  "title":"Descubra seu Estilo de Viagem Ideal",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual atividade você prefere fazer durante as férias ?",
+      "options":[
+        {"id": 1, "name":"Explorar monumentos históricos e museus.", "alias":"A"},
+        {"id": 2, "name":"Relaxar em praias paradisíacas.", "alias":"B"},
+        {"id": 3, "name":"Fazer trilhas em meio à natureza.", "alias":"C"},
+        {"id": 4, "name":"Experimentar a gastronomia local.", "alias":"D"},
+        {"id": 5, "name":"Praticar esportes radicais.", "alias":"E"},
+        {"id": 6, "name":"Curtir a vida noturna e conhecer novas culturas.", "alias":"F"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Como você prefere se locomover durante uma viagem ?",
+      "options":[
+        {"id": 1, "name":"Carro alugado para explorar a região.", "alias":"A"},
+        {"id": 2, "name":"Avião para chegar rapidamente ao destino.", "alias":"B"},
+        {"id": 3, "name":"Trem para apreciar as paisagens.", "alias":"C"},
+        {"id": 4, "name":"Barco para explorar ilhas e litorais.", "alias":"D"},
+        {"id": 5, "name":"Bicicleta para ter liberdade de movimento.", "alias":"E"},
+        {"id": 6, "name":"Ônibus para interagir com os moradores locais", "alias":"F"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O que não pode faltar na sua mala de viagem ?",
+      "options":[
+        {"id": 1, "name":"Guia turístico e mapas da região.s", "alias":"A"},
+        {"id": 2, "name":"Protetor solar e óculos de sol.", "alias":"B"},
+        {"id": 3, "name":"Equipamentos de camping e mochila.", "alias":"C"},
+        {"id": 4, "name":"Garrafa de água reutilizável e lanches saudáveis.", "alias":"D"},
+        {"id": 5, "name":"Equipamento de mergulho e snorkel.", "alias":"E"},
+        {"id": 6, "name":"Roupas elegantes para sair à noite.", "alias":"F"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual paisagem você prefere admirar durante uma viagem ?",
+      "options":[
+        {"id": 1, "name":"Castelos e palácios históricos.", "alias":"A"},
+        {"id": 2, "name":"Praias de areia branca e mar azul-turquesa.", "alias":"B"},
+        {"id": 3, "name":"Montanhas cobertas de neve e picos rochosos.", "alias":"C"},
+        {"id": 4, "name":"Mercados de rua e feiras gastronômicas.", "alias":"D"},
+        {"id": 5, "name":"Cachoeiras e rios cristalinos.", "alias":"E"},
+        {"id": 6, "name":"Skyscrapers e luzes neon das grandes cidades.", "alias":"F"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Como você se sente em relação a viagens solo ?",
+      "options":[
+        {"id": 1, "name":"Adoro a liberdade de explorar sozinho.", "alias":"A"},
+        {"id": 2, "name":"Prefiro viajar com amigos ou familiares.", "alias":"B"},
+        {"id": 3, "name":"Gosto de fazer amigos pelo caminho.", "alias":"C"},
+        {"id": 4, "name":"Acho que é uma oportunidade para reflexão pessoal.", "alias":"D"},
+        {"id": 5, "name":"Tenho receio de ficar sozinho em lugares desconhecidos.", "alias":"E"},
+        {"id": 6, "name":"Não me importo, desde que eu tenha um bom plano de viagem.", "alias":"F"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual é a sua prioridade ao escolher um destino de viagem ?",
+      "options":[
+        {"id": 1, "name":"Conhecer a história e a cultura local.", "alias":"A"},
+        {"id": 2, "name":"Relaxar e recarregar as energias.", "alias":"B"},
+        {"id": 3, "name":"Explorar a natureza e fazer atividades ao ar livre.", "alias":"C"},
+        {"id": 4, "name":"Experimentar a culinária típica da região.", "alias":"D"},
+        {"id": 5, "name":"Buscar aventura e adrenalina.", "alias":"E"},
+        {"id": 6, "name":"Conhecer pessoas e fazer novas amizades.", "alias":"F"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "O que você mais gosta de fazer após um longo dia de viagem ?",
+      "options":[
+        {"id": 1, "name":"Jantar em um restaurante local.", "alias":"A"},
+        {"id": 2, "name":"Relaxar em um spa ou piscina do hotel.", "alias":"B"},
+        {"id": 3, "name":"Assistir ao pôr do sol em um mirante.", "alias":"C"},
+        {"id": 4, "name":"Caminhar pela cidade e explorar a vida noturna.", "alias":"D"},
+        {"id": 5, "name":"Praticar esportes aquáticos ou trilhas.", "alias":"E"},
+        {"id": 6, "name":"Participar de atividades culturais e eventos locais.", "alias":"F"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Viajante Aventureiro: Seu estilo de viagem ideal é aventureiro! Você ama adrenalina, busca novas experiências e está sempre pronto para uma nova aventura.",
+    "B": "Viajante Cultural: Seu estilo de viagem ideal é cultural! Você adora explorar monumentos históricos, museus e experimentar a gastronomia local.",
+    "C": "Viajante Relaxado: Seu estilo de viagem ideal é relaxado! Você prefere destinos tranquilos, praias paradisíacas e momentos de descanso.",
+    "D": "Viajante Aventureiro: Seu estilo de viagem ideal é aventureiro! Você ama adrenalina, busca novas experiências e está sempre pronto para uma nova aventura.",
+    "E": "Viajante Social: Seu estilo de viagem ideal é social! Você adora fazer novas amizades, conhecer culturas diferentes e se hospedar em locais animados.",
+    "F": "Viajante Eclético: Seu estilo de viagem é eclético! Você gosta de experimentar diferentes tipos de viagens e está aberto a novas experiências."
+  },
+  "img":{
+    "A":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpqZnFnbzVua3BxdDRqbDMzaG9wMHl0NW9oZzJ4N3p4ZjluazJ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N97O8wvYMDreE/giphy.gif",
+    "B":"https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRlM2puaTg2N2w4bHFpaW94a2tyNTA2cng2M20xbHd4dmM3bmxzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHcp972Wt0YKL0Nj6R/giphy.gif",
+    "C":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemliODk4cG95OGZmYTNjbXp1dWY0ZnRtYjI3enRmbnQwNGFqOG81biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2DsbCHtTUXH34t6Pk/giphy.gif",
+    "D":"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpqZnFnbzVua3BxdDRqbDMzaG9wMHl0NW9oZzJ4N3p4ZjluazJ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N97O8wvYMDreE/giphy.gif",
+    "E":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVlYnI4Y3BnYW13cGh2dDVsbjFzMjRvcmc4dnY1dzdzNnUxMGNibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tp878oRTZNuDzhCotI/giphy.gif",
+    "F":"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlsOXk4YWV5Y3owaHE1bmsyNjQ3djJzMmQ4dHozMmh5azRrd3B0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84TPOi7TDWBLedRm/giphy.gif"
+  }
+}
